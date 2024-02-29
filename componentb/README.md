@@ -2,4 +2,4 @@
 
 The first change to component B
 
-A secnd change
+A second change
