@@ -1,3 +1,8 @@
+## 1.0.0componentb (2024-02-29)
+
+
+- feat(componentb)!: v1 for the win
+
 ## 0.3.0componentb (2024-02-29)
 
 
